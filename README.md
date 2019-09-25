@@ -4,7 +4,7 @@ This Android example  show the searchview ,wherever you want please see the exam
 ## License
 [APACHE](https://github.com/ghanshyam34/MySearchView/blob/master/LICENSE)
 
-
+```
                       Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -24,4 +24,4 @@ This Android example  show the searchview ,wherever you want please see the exam
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-
+```
