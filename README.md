@@ -8,8 +8,7 @@ This Android example  show the searchview ,wherever you want please see the exam
                       Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
-
-   
+  
 
    Copyright [2019] [Ghanshyamp]
 
