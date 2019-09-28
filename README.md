@@ -1,6 +1,8 @@
 # MySearchView
 This Android example  show the searchview ,wherever you want please see the example
 
+[![](https://jitpack.io/v/ghanshyam34/MySearchView.svg)](https://jitpack.io/#ghanshyam34/MySearchView)
+
 ## License
 [APACHE](https://github.com/ghanshyam34/MySearchView/blob/master/LICENSE)
 
