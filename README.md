@@ -3,6 +3,9 @@ This Android example  show the searchview ,wherever you want please see the exam
 
 [![](https://jitpack.io/v/ghanshyam34/MySearchView.svg)](https://jitpack.io/#ghanshyam34/MySearchView)
 
+     implementation 'com.github.ghanshyam34:MySearchView:7112c5ae20'
+ 
+
 ## License
 [APACHE](https://github.com/ghanshyam34/MySearchView/blob/master/LICENSE)
 
