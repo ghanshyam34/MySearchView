@@ -4,7 +4,7 @@ This Android example  show the searchview ,wherever you want please see the exam
 [![](https://jitpack.io/v/ghanshyam34/MySearchView.svg)](https://jitpack.io/#ghanshyam34/MySearchView)
 
 
-    dependencies {
+      dependencies {
 	        implementation 'com.github.ghanshyam34:MySearchView:7112c5ae20'
 	   }    
  
