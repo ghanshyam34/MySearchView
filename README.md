@@ -1,7 +1,6 @@
 # MySearchView
 This Android example  show the searchview ,wherever you want please see the example
 
-[![](https://jitpack.io/v/ghanshyam34/MySearchView.svg)](https://jitpack.io/#ghanshyam34/MySearchView)
 
 
        dependencies {
